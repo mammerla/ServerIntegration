@@ -1,0 +1,4 @@
+This is a set of simple utilities in .net for doing common tasks on server side code.  This is used by downstream projects in other github repos under /mammerla.
+
+The main utility right now is a simple "token manager" which persists tokens in a SQL Database via the Entity Framework.
+
